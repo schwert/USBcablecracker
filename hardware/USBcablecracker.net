@@ -751,7 +751,7 @@
     (net (code 15) (name /MOSI)
       (node (ref CONN1) (pin 4))
       (node (ref U1) (pin 10)))
-    (net (code 16) (name +5C)
+    (net (code 16) (name +5V)
       (node (ref R5) (pin 2))
       (node (ref D1) (pin 2))
       (node (ref D2) (pin 2))
